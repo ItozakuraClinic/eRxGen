@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Noto Sans SC";
+  src: url("fonts/NotoSansSC-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Noto Serif SC";
+  src: url("fonts/NotoSerifSC-Regular.otf") format("opentype");
+}
